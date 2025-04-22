@@ -29,7 +29,7 @@ Execute the program using runserver command.
          table,th,td{border:2px solid black;
         border-collapse:collapse;}
     </style>
-    <caption align="center"><b>SLOT TIME TABLE-KOWSHIK P (24900055)</b></caption>
+    <caption align="center"><b>SLOT TIME TABLE-ADITHYA M (212224230008)</b></caption>
     <tr>
         <td bgcolor="violet">day</td>
         <td bgcolor="grey">8am to 10am</td>
@@ -125,7 +125,8 @@ Execute the program using runserver command.
     </body>
 ```
 # OUTPUT
-![Screenshot 2025-04-21 193527](https://github.com/user-attachments/assets/03382c04-b198-4233-a7fa-baa77524320e)
+
+![Screenshot 2025-04-22 123536](https://github.com/user-attachments/assets/82f3a6e0-3b5c-466e-9952-b8de2eee59c0)
 
 
 # RESULT
